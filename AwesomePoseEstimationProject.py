@@ -1,6 +1,4 @@
-import cv2
-import time
-import PoseModule as pm
+
 
 cap = cv2.VideoCapture('PoseVideos/2.mp4.mp4')
 pTime = 0
