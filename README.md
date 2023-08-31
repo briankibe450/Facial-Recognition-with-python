@@ -13,7 +13,7 @@ This is an AI chatbot implemented in Python using the OpenAI GPT-3.5 language mo
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository::::
 
    ```bash
    git clone https://github.com/your-username/ai-chatbot.git
