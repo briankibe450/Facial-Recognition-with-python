@@ -2,7 +2,7 @@
 Sure! Here's an example of a README file you can use for an AI chatbot project implemented in Python:
 
 ```
-# AI 
+# AI CHATBOT
 
 This is an AI chatbot implemented in Python using the OpenAI GPT-3.5 language model. The chatbot is capable of engaging in text-based conversations and providing responses based on the input it receives.
 
