@@ -45,7 +45,7 @@ To start a conversation with the AI chatbot, run the following command:
 python chatbot.py
 ```
 
-Once the chatbot is running, you can type your messages and press Enter to receive a response from the chatbot. The conversation will continue until you exit the program.
+Once the chatbot is running, you can type your messages and press Enter to receive a response from the chatbot. The conversation will continue until you have the program.
 
 ## Customization
 
