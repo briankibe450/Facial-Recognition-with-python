@@ -49,7 +49,7 @@ Once the chatbot is running, you can type your messages and press Enter to recei
 
 ## Customization
 
-You can modify the behavior and capabilities of the chatbot by tweaking the configuration settings in the `config.py` file. For example, you can adjust the chatbot's response length, temperature, and other parameters to control the style and diversity of its responses.
+You can modify the behavior and capabilities of the chatbot by tweaking the configuration settings in the `config.py` file. For example, you can adjust the chatbot's response length, temperature, and other to control the style and diversity of its responses.
 
 ## Limitations
 
