@@ -70,7 +70,7 @@ def main():
         cv2.putText(img, f'FPS: {int(fps)}', (20, 70), cv2.FONT_HERSHEY_PLAIN,
                     3, (0, 255, 0), 2)  # FRAME RATE PER SECOND
         cv2.imshow("Image", img)
-        cv2.waitKey(1)  # frame 
+        cv2.waitKey(1)  # frame rate
 
 
 
